@@ -8,6 +8,8 @@
 
 Die Entwicklung von **QuickTOTP** begann mit einem Prompt an ChatGPT, in dem die Anforderungen und Funktionalitäten der App beschrieben wurden. ChatGPT hat auf dieser Basis den Python-Code erstellt, der direkt fehlerfrei funktionierte und ohne weitere Anpassungen oder Korrekturen ausgeführt werden konnte. Die Zusammenarbeit mit ChatGPT führte zu einem gut strukturierten, funktionierenden und gut lesbaren Code.
 
+![QuickTOTP Screenshot](images/Screenshot_QuickTOTP_2024-09-30.png)
+
 ### Funktionsweise der App
 
 - Zeigt einen TOTP-Code an, der automatisch alle X Sekunden aktualisiert wird.
