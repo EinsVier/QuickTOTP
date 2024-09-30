@@ -1,0 +1,5 @@
+{
+    "SECRET": "Dein_TOTP_Geheimnis",
+    "HOTKEY": "Strg+Alt+t",
+    "HINT_TEXT": "Drücken Sie {HOTKEY}, um den TOTP-Code direkt in Ihre Anwendung einzufügen."
+}

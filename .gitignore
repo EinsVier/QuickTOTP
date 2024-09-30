@@ -1,0 +1,7 @@
+/.venv
+/build
+/dist
+/QuickTOTP.exe
+/test2.py
+/config.json
+/quicktotp.spec
